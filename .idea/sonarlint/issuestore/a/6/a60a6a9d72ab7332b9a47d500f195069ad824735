@@ -1,0 +1,11 @@
+
+\
+java:S62136":Rename this variable to not match a restricted identifier.(´Å£Ÿıÿÿÿÿ8Ù¡½ÕË1
+^
+java:S34577"AFormat specifiers should be used instead of string concatenation.(—ËÈ8‡ë¿ÕË1
+]
+java:S34578"AFormat specifiers should be used instead of string concatenation.(ôöÂS8‡ë¿ÕË1
+i
+java:S1128"LRemove this unused import 'org.apache.kafka.clients.producer.KafkaProducer'.(ªŒ»8ÖÎ¹ÕË1
+o
+java:S1128"MRemove this unused import 'org.apache.kafka.clients.producer.ProducerRecord'.(ä°«¡üÿÿÿÿ8×Î¹ÕË1
